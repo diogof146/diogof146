@@ -1,16 +1,82 @@
-## Hi there 👋
+# ⚡︎ Welcome, I'm Diogo!
 
-<!--
-**diogof146/diogof146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Code+Craftsman)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+
+```javascript
+const developer = {
+    name: "Diogo Ferreira",
+    location: "Porto, Portugal",
+    role: "Computer Engineering Student",
+    hobbies: ["Playing Guitar", "Watching Football", "Playing Chess", "Updating Dotfiles", "Gym"],
+    currentFocus: "Defeating macOS's restrictions",
+    funFact: "I spend way too long doing useless things",
+    energyDrinks: ">= 2 per day",
+};
+```
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diogof146) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diogof146)
+
+## 💻 Tech Stack:
+
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-417E87?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-025DDF?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-417E87?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-025DDF?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-417E87?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-025DDF?style=for-the-badge&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-417E87?style=for-the-badge&logo=cplusplus&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-025DDF?style=for-the-badge&logo=latex&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-417E87?style=for-the-badge&logo=swift&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-025DDF?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-417E87?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-025DDF?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-417E87?style=for-the-badge&logo=neovim&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=diogof146&hide_border=false&include_all_commits=true&count_private=false&theme=transparent)
+![](https://nirzak-streak-stats.vercel.app/?user=diogof146&theme=transparent&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogof146&hide_border=false&include_all_commits=true&count_private=false&layout=compact&theme=transparent)
+
+</div>
+
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Neovim](https://github-readme-stats.vercel.app/api/pin/?username=diogof146&repo=nvim-config&theme=transparent)](https://github.com/diogof146/nvim-config)
+[![Tour Website](https://github-readme-stats.vercel.app/api/pin/?username=diogof146&repo=pepe-tours-travels&theme=transparent)](https://github.com/diogof146/pepe-tours-travels)
+[![Farmers Market](https://github-readme-stats.vercel.app/api/pin/?username=Farmers-Market-UPT&repo=farmers-market&theme=transparent)](https://github.com/Farmers-Market-UPT/farmers-market)
+[![Football](https://github-readme-stats.vercel.app/api/pin/?username=diogof146&repo=fbsim&theme=transparent)](https://github.com/diogof146/fbsim)
+
+</div>
+
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=diogof146&limit=5&combine_all_yearly_contributions=true&theme=transparent)
+
+</div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=diogof146&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/diogof146/diogof146/blob/output/github-contribution-grid-snake.svg)
+
