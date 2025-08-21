@@ -43,18 +43,6 @@ const developer = {
 
 </div>
 
-## 📊 GitHub Stats:
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=diogof146&hide_border=false&include_all_commits=true&count_private=false&theme=transparent)
-![](https://nirzak-streak-stats.vercel.app/?user=diogof146&theme=transparent&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogof146&hide_border=false&include_all_commits=true&count_private=false&layout=compact&theme=transparent)
-
-</div>
-
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -66,6 +54,17 @@ const developer = {
 
 </div>
 
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=diogof146&hide_border=false&include_all_commits=true&count_private=false&theme=transparent)
+![](https://nirzak-streak-stats.vercel.app/?user=diogof146&theme=transparent&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogof146&hide_border=false&include_all_commits=true&count_private=false&layout=compact&theme=transparent)
+
+</div>
 
 <div align="center">
 
