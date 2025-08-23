@@ -14,7 +14,7 @@ const developer = {
     location: "Porto, Portugal",
     role: "Computer Engineering Student",
     hobbies: ["Playing Guitar", "Watching Football", "Playing Chess", "Updating Dotfiles", "Gym"],
-    currentFocus: "Turning macOS into a Linux by defeating SIP and every other restriction Apple throws my way.",
+    currentFocus: "Turning macOS into Linux by defeating SIP and every other restriction Apple throws my way.",
     funFact: "I’ve spent more time configuring my dev environment than I have writing actual code.",
     energyDrinks: ">= 2 per day (mostly for the taste, definitely)",
 };
