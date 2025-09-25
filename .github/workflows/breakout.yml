@@ -1,47 +1,40 @@
-name: generate breakout svg
-
+name: GitHub Breakout Game
 on:
+  # Schedule the workflow to run daily at midnight UTC
   schedule:
-    - cron: "0 */24 * * *"  # Runs daily
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 0 * * *"
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+  # Trigger the workflow on pushes to the main branch
+  push:
+    branches:
+      - main
 
 jobs:
-  generate-svg:
-    permissions:
-      contents: write
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
+    timeout-minutes: 10
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: generate SVG
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      
+      # Step 2: Generate the breakout game SVGs
+      - name: Generate GitHub Breakout SVGs
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
           paddle_color: "#006064"
-          ball_color: "#006064" 
+          ball_color: "#006064"
           bricks_colors: "#e0f7fa,#b2ebf2,#4dd0e1,#0097a7,#006064"
-
-      - name: Move generated SVGs to temp
-        run: |
-          mkdir -p /tmp/breakout-images
-          mv output/light.svg /tmp/breakout-images/breakout-light.svg
-          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
-          mv output/custom.svg /tmp/breakout-images/breakout-custom.svg
-
-      - name: Configure git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit and force-push SVGs to target branch
-        run: |
-          git checkout --orphan github-breakout
-          git rm -rf .
-          mkdir images
-          mv /tmp/breakout-images/* images/
-          git add images
-          git commit -m "chore: update GitHub breakout SVGs" || echo "No changes to commit"
-          git push --force origin github-breakout
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      # Step 3: Deploy the generated files to the 'github-breakout' branch
+      - name: Deploy to GitHub Breakout Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: github-breakout
+          commit_message: "Update breakout game [skip ci]"
