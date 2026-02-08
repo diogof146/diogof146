@@ -56,7 +56,7 @@ const developer = {
 </a>
 
 <a href="https://github.com/Animal-Care-UPT/Equipa3_comp3">
-  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=Animal-Care-UPT&repo=Equipa3_comp3&theme=tokyonight" />
+<img src="https://github-readme-stats-one.vercel.app/api/pin/?username=Animal-Care-UPT&repo=Equipa3_comp3&theme=tokyonight&custom_title=Animal+Care+Centre" />
 </a>
 
 <a href="https://github.com/diogof146/fbsim">
@@ -81,16 +81,16 @@ const developer = {
     <tr>
       <td>
         <a href="https://github.com/diogof146">
-          <img src="https://github-readme-stats-one.vercel.app/api?username=diogof146&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+          <img src="https://github-readme-stats-one.vercel.app/api?username=diogof146&show_icons=true&theme=tokyonight&count_private=true" height="140" />
         </a>
         <br />
         <a href="https://github.com/diogof146">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogof146&theme=tokyonight" height="150" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogof146&theme=tokyonight" height="140" />
         </a>
       </td>
       <td valign="center">
         <a href="https://github.com/diogof146">
-          <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=diogof146&layout=compact&theme=tokyonight&langs_count=6" height="600" />
+          <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=diogof146&layout=compact&theme=tokyonight&langs_count=6" height="700" />
         </a>
       </td>
     </tr>
