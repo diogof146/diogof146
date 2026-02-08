@@ -46,30 +46,60 @@ const developer = {
 ## 🚀 Featured Projects
 
 <div align="center">
+  
+<a href="https://github.com/diogof146/nvim-config">
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=diogof146&repo=nvim-config&theme=tokyonight" />
+</a>
 
-[![Neovim](https://github-readme-stats.vercel.app/api/pin/?username=diogof146&repo=nvim-config&theme=transparent)](https://github.com/diogof146/nvim-config)
-[![Tour Website](https://github-readme-stats.vercel.app/api/pin/?username=diogof146&repo=pepe-tours-travels&theme=transparent)](https://github.com/diogof146/pepe-tours-travels)
-[![Farmers Market](https://github-readme-stats.vercel.app/api/pin/?username=Farmers-Market-UPT&repo=farmers-market&theme=transparent)](https://github.com/Farmers-Market-UPT/farmers-market)
-[![Football](https://github-readme-stats.vercel.app/api/pin/?username=diogof146&repo=fbsim&theme=transparent)](https://github.com/diogof146/fbsim)
+<a href="https://github.com/diogof146/pepe-tours-travels">
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=diogof146&repo=pepe-tours-travels&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Animal-Care-UPT/Equipa3_comp3">
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=Animal-Care-UPT&repo=Equipa3_comp3&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/diogof146/fbsim">
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=diogof146&repo=fbsim&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/diogof146/vivre-bar">
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=diogof146&repo=vivre-bar&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/diogof146/dotfiles">
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=diogof146&repo=dotfiles&theme=tokyonight" />
+</a>
+
 
 </div>
-
 
 ## 📊 GitHub Stats:
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=diogof146&hide_border=false&include_all_commits=true&count_private=false&theme=transparent)
-![](https://nirzak-streak-stats.vercel.app/?user=diogof146&theme=transparent&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogof146&hide_border=false&include_all_commits=true&count_private=false&layout=compact&theme=transparent)
-
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td>
+        <a href="https://github.com/diogof146">
+          <img src="https://github-readme-stats-one.vercel.app/api?username=diogof146&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+        </a>
+        <br />
+        <a href="https://github.com/diogof146">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogof146&theme=tokyonight" height="150" />
+        </a>
+      </td>
+      <td valign="center">
+        <a href="https://github.com/diogof146">
+          <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=diogof146&layout=compact&theme=tokyonight&langs_count=6" height="600" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
+<div></div>
 
-#
-  
+<div align="center">
 
 ![snake gif](https://github.com/diogof146/diogof146/blob/output/github-snake-dark.svg)
 
